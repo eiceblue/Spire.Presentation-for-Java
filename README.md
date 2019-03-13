@@ -5,7 +5,8 @@ Spire.Presentation for Java also supports to convert PowerPoint document to imag
 
 ***Main Features***
 
-Only Spire.Presentation for Java, No Microsoft Office Installed
+***Only Spire.Presentation for Java, No Microsoft Office Installed***
+
 Spire.Presentation for Java is a 100% independent Java PowerPoint component, it doesn’t require Microsoft Office or any other 3rd party library to be installed on system.
 
 ***High Quality PowerPoint File Conversion***
